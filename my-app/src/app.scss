@@ -1,0 +1,12 @@
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: yellowgreen;
+}
+$text_color: rgb(189, 144, 144);
+
+h1, p, button{ 
+    text-align: center;
+    color: $text_color 
+}

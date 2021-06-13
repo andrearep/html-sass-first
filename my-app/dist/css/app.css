@@ -1,0 +1,11 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: yellowgreen;
+}
+
+h1, p, button {
+  text-align: center;
+  color: #bd9090;
+}
